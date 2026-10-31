@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Serverless-Compute-Query-Processing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Serverless-Compute-Query-Processing?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Serverless-Compute-Query-Processing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Serverless-Compute-Query-Processing?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Serverless-Compute-Query-Processing/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Serverless-Compute-Query-Processing?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Serverless-Compute-Query-Processing/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Serverless-Compute-Query-Processing?style=flat-square&color=red" alt="Open Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Serverless-Compute-Query-Processing/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
@@ -67,9 +67,9 @@
 
 ## 🛠️ Open-Source GitHub Projects
 
-All open-source tools below are equipped with live stargazers badges linking directly to their GitHub stargazers page, ordered by GitHub star count (descending).
+All open-source tools below are equipped with live stargazers badges linking directly to their GitHub stargazers page, ordered by GitHub Stars_Count (descending).
 
-| 📦 Project | ⭐ Stars | 📋 Category / Architecture Overview | 📜 License |
+| 📦 Project | ⭐ GitHub_Stars | 📋 Category / Architecture Overview | 📜 License |
 | :--- | :--- | :--- | :--- |
 | **[vLLM](https://github.com/vllm-project/vllm)** [![vLLM Stars](https://img.shields.io/github/stars/vllm-project/vllm?style=social&color=white)](https://github.com/vllm-project/vllm/stargazers) | ~95.9k | High-throughput, memory-efficient serverless LLM serving engine featuring PagedAttention and dynamic continuous batching. | Apache-2.0 |
 | **[DuckDB](https://github.com/duckdb/duckdb)** [![DuckDB Stars](https://img.shields.io/github/stars/duckdb/duckdb?style=social&color=white)](https://github.com/duckdb/duckdb/stargazers) | ~42.7k | High-performance in-process vectorized analytical SQL query engine; the standard for embedded serverless and WebAssembly OLAP. | MIT |
